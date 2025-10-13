@@ -4,15 +4,12 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "dev:log": "next dev > dev.log 2>&1",
-    "build": "next build",
-    "start": "next start",
-    "start:log": "next start > server.log 2>&1",
-    "lint": "next lint",
-    "db:push": "prisma db push",
-    "db:generate": "prisma generate",
-    "db:migrate": "prisma migrate dev",
-    "db:reset": "prisma migrate reset"
+  "build": "prisma generate && next build",
+  "start": "next start",
+  "prisma:generate": "prisma generate",
+  "prisma:migrate": "prisma migrate dev",
+  "db:seed": "node prisma/seed.cjs",
+  "postinstall": "prisma generate"
   },
   "dependencies": {
     "@dnd-kit/core": "^6.3.1",
