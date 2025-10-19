@@ -243,7 +243,7 @@ export default function PrivacyPolicyPage() {
               viewport={{ once: true }}
             >
               <div className="flex items-center gap-3 mb-4">
-            
+             
                 <h3 className="text-xl font-bold text-blue-400">Security of Your Personal Information</h3>
               </div>
               <p className="text-gray-300 mb-3">We intend to protect the personal information entrusted to us and treat it securely in accordance with this Privacy Statement. RELIABLE implements physical, administrative, and technical safeguards designed to protect your personal information from unauthorized access, use, or disclosure. We also contractually require that our suppliers protect such information from unauthorized access, use, and disclosure. The Internet, however, cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any personal information you provide to us.</p>
