@@ -44,7 +44,7 @@ export function Header() {
       <Link href="/" className="flex items-center space-x-3">
   <Image
     src="/logo.png" // ✅ adjust path if needed (e.g. "/images/logo.png")
-    alt="Reliable Smart Solutions"
+    alt="Reliable Automation"
     width={280}     // adjust as needed
     height={40}
     priority
@@ -158,7 +158,7 @@ export function Header() {
                 </div>
                 <div className="flex items-center space-x-2 text-sm text-gray-400 px-3 py-2">
                   <Mail className="w-4 h-4" />
-                  <span>info@reliableautomation.com</span>
+                  <span>info@reliableautomation.in</span>
                 </div>
                 <div className="px-3 py-2">
                   <Link href="/contact" onClick={() => setIsMenuOpen(false)}>
