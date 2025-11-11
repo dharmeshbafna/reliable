@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 
 export const metadata: Metadata = {
-  title: "Reliable Smart Solutions - Smart Home Automation Solutions",
+  title: "Reliable Automation - Smart Home Automation Solutions",
   description: "Transform your home into an intelligent living space with Reliable Smart Solutions's premium smart home solutions. Based in Ahmedabad, we offer complete automation for homes, hotels, and offices.",
   keywords: ["Reliable Smart Solutions", "Smart Home", "Home Automation", "Ahmedabad", "Hotel Automation", "Office Automation", "IoT Solutions"],
   authors: [{ name: "Reliable Smart Solutions Team" }],
