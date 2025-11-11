@@ -17,13 +17,13 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Reliable Automation - Smart Home Automation Solutions",
   description: "Transform your home into an intelligent living space with Reliable Smart Solutions's premium smart home solutions. Based in Ahmedabad, we offer complete automation for homes, hotels, and offices.",
-  keywords: ["Reliable Smart Solutions", "Smart Home", "Home Automation", "Ahmedabad", "Hotel Automation", "Office Automation", "IoT Solutions"],
-  authors: [{ name: "Reliable Smart Solutions Team" }],
+  keywords: ["Reliable Automation", "Reliable Smart Solutions", "Smart Home", "Home Automation", "Ahmedabad", "Hotel Automation", "Office Automation", "IoT Solutions"],
+  authors: [{ name: "Anriyo Tech Solutions Team" }],
   openGraph: {
-    title: "Reliable Smart Solutions - Smart Home Solutions",
+    title: "Reliable Automation - Smart Home Solutions",
     description: "Premium home Smart solutions in Ahmedabad. Transform your living space with intelligent automation.",
     url: "https://reliableautomation.in",
-    siteName: "Reliable Smart Solution",
+    siteName: "Reliable Automation",
     type: "website",
   },
 
