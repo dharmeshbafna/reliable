@@ -19,7 +19,7 @@ export default function OffersPage() {
             </Link>
             <div>
               <h1 className="text-3xl font-bold bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent">
-                Special Offers
+                Offers & Promotions
               </h1>
               <p className="text-gray-400 mt-1">Exclusive deals and promotions</p>
             </div>
@@ -40,7 +40,7 @@ export default function OffersPage() {
               Exclusive Offers
             </h2>
             <p className="text-xl text-gray-300 max-w-4xl mx-auto mb-12">
-              Discover our special promotions and limited-time offers on home automation solutions.
+              Smileathon 2026 Exclusive Smart Devices Offer.
             </p>
             
             <div className="flex justify-center mb-12">
