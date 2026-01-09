@@ -51,7 +51,7 @@ export default function Smileathon2026Page() {
           </div>
         </div>
       </div>
-</div>
+
       {/* Main Content */}
       <section className="py-20 px-4">
         <div className="max-w-6xl mx-auto">
@@ -329,5 +329,7 @@ export default function Smileathon2026Page() {
             </div>
           </motion.div>
         </div>
-        </section>
-        
+      </section>
+    </div> {/* <-- This closes the outer min-h-screen div */}
+  )
+}
