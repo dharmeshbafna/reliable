@@ -1,6 +1,10 @@
 import React from 'react';
 import Image from 'next/image';
-
+mport { motion } from 'framer-motion'
+import { Card, CardContent } from '@/components/ui/card'
+import { Badge } from '@/components/ui/badge'
+import { Button } from '@/components/ui/button'
+import { PageLayout } from '@/components/PageLayout'
 export default function OffersPage() {
   return (
     <div className="min-h-screen bg-white">
