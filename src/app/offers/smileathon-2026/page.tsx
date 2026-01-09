@@ -330,6 +330,6 @@ export default function Smileathon2026Page() {
           </motion.div>
         </div>
       </section>
-    </div> {/* <-- This closes the outer min-h-screen div */}
-  )
+    </div>); {/* <-- This closes the outer min-h-screen div */}
+  
 }
