@@ -52,7 +52,7 @@ export default function OffersPage() {
               >
                 <div className="relative rounded-2xl overflow-hidden shadow-2xl border border-white/10">
                   <Image
-                    src="/banner.jpeg"
+                    src="/offer-banner.jpeg"
                     alt="Special Offers Banner"
                     width={1200}
                     height={400}
